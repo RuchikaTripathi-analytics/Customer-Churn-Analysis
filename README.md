@@ -41,6 +41,9 @@ This project analyzes customer churn behavior using Python and Power BI. The obj
 ## Project Files
 
 * Customer_Churn_Analysis.ipynb
+  ## Dashboard Preview
+
+![Customer Churn Dashboard](PASTE_IMAGE_URL_HERE)
 * Customer_Churn_Cleaned.csv
 * Customer_Churn_Dashboard.pbix
 * dashboard_screenshot.png
